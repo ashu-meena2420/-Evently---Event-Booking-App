@@ -57,7 +57,7 @@ object DummyData {
             name = "IPL Fan Fest 2026",
             description = "Catch the grand finale of the IPL on the giant screens with stadium-like atmosphere, food stalls, DJ music, and merchandise stores. Bring your family and cheer for your favorite team in this high-octane cricketing carnival.",
             imageUrl = "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=800&q=80",
-            date = "May 30, 2026",
+            date = "Jun 29, 2026",
             time = "07:00 PM",
             venue = "Jio Gardens, Bandra, Mumbai",
             price = 299,
