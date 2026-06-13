@@ -1,5 +1,7 @@
 # Evently - Event Booking App
 
+## Evently is an Android app I built during my internship at CODTECH
+
 **Intern ID:** CITS2358  
 **Name:** Ashu Meena  
 **Duration:** 6 Weeks  
@@ -9,7 +11,7 @@
 
 ## What is this?
 
-Evently is an Android app I built during my internship at CODTECH. The idea is simple — let users browse events happening around them, pick tickets, and get a digital ticket on their phone. No complicated setup, just a clean booking experience.
+ The idea is simple — let users browse events happening around them, pick tickets, and get a digital ticket on their phone. No complicated setup, just a clean booking experience.
 
 I wanted it to feel like a real consumer app, not just a demo project, so I put a lot of effort into animations, proper navigation flow, and making the UI actually look good on a real phone.
 
