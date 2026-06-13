@@ -113,4 +113,4 @@ That's it. The app uses local Room data so there's no backend or API keys to con
 
 ---
 
-*Built during CODTECH internship, 2024 — Ashu Meena*
+*Built during CODTECH internship, 2026 — Ashu Meena*
